@@ -10,7 +10,7 @@
 - 💅 Developed: Plugins and Macros for CAD software, Automation scripts using Python.
 - 📖 I Love to learn: **Automation**, **Coding**, **Tech**, **Electric vehicles**, **Startups**, **Gadgets**, **Investments**, etc.,
 - 🌍 My Social Media handles: [LinkedIn](https://www.linkedin.com/in/bhuvan-bharath/), [Twitter](https://twitter.com/home?lang=en), [Reddit](https://www.reddit.com/user/_the_bb_man).
-- 📫 For more: ✉ bhuvanbharath@outlook.com 📲 +91 99407 75590.
+- 📫 For more: ✉ Drop a mail @bhuvanbharath@outlook.com.
 - 🏎 Fun fact: I'm a huge fan of F1.
 
 ## **PROJECTS** 👨‍💻
