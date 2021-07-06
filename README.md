@@ -12,7 +12,7 @@
 - 🌍 I'm mostly active in [LinkedIn](https://www.linkedin.com/in/bhuvan-bharath/) and [Twitter](https://twitter.com/home?lang=en)
 - 📫 Reach me: ✉ bhuvanbharath@outlook.com 📲 +91 99407 75590
 - 🏎 Fun fact: I'm a huge fan of F1
-- 
+
 ## **NOW**
 
 - ✨ Automating the Computer Aided Design(CAD) software that could save time and money for an organisation;
