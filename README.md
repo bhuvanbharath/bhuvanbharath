@@ -9,7 +9,7 @@
 - 💻 I am skilled in C++ and Python.
 - 💅 Developed: Plugins and Macros for CAD software, Automation scripts using Python.
 - 📖 I Love to learn: **Automation**, **Coding**, **Tech**, **Electric vehicles**, **Startups**, **Gadgets**, **Investments**, etc.,
-- 🌍 I'm mostly active in [LinkedIn](https://www.linkedin.com/in/bhuvan-bharath/) and [Twitter](https://twitter.com/home?lang=en).
+- 🌍 My Social Media handles: [LinkedIn](https://www.linkedin.com/in/bhuvan-bharath/), [Twitter](https://twitter.com/home?lang=en), [Reddit](https://www.reddit.com/user/_the_bb_man).
 - 📫 For more: ✉ bhuvanbharath@outlook.com 📲 +91 99407 75590.
 - 🏎 Fun fact: I'm a huge fan of F1.
 
