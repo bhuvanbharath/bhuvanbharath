@@ -4,7 +4,7 @@
 
 ## **BIO** 👱🏽‍♂️
 
-- 🔧 I'm basically from a Mechanical engineering background and have been into coding since last year(2020). 
+- 🔧 I'm basically from a Mechanical engineering background and have been into coding since last year(2020).    //lol 
 - 💻 I am skilled in C++ and Python.
 - 💅 Developed: Plugins and Macros for CAD software, Automation scripts using Python.
 - 📖 I Love to learn: **Automation**, **Coding**, **Tech**, **Electric vehicles**, **Startups**, **Gadgets**, **Investments**, etc.,
