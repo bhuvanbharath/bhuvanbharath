@@ -10,7 +10,7 @@
 - 📖 I'm into **Automation**, **Programming**, **Bots**, and so on.
 - ❤️ I love **Photography**, **Books**, **Formula1**, **Gymming**, **Travelling**, **Language-learning** and so on.
 
-<h2 align="center">You can find me at :alien:</h2>
+<h2 align="center">You can also spy me at 👀</h2>
 
 <p align="center">
   <a href="https://twitter.com/bhuvanbharatht">
