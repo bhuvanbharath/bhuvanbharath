@@ -1,6 +1,12 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
+<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university</h4>
+</div>
 
-#### I'm [Bhuvan Bharath](https://www.linkedin.com/in/bhuvan-bharath/), an Automation Engineer natively from TamilNadu, India.
+### Hi there 👋 I'm Bhuvan Bharath 
+![waving](https://user-images.githubusercontent.com/85404710/176999817-0a70308c-af5d-45ae-910c-dcf1f7607a17.gif)
+
+#### I am an **Automation engineer** (by title) and I provide digital solutions in the CAD domain.
 
 ## **BIO** 👱🏽‍♂️
 
