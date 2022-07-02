@@ -5,12 +5,12 @@
 
 ## **BIO** 👱🏽‍♂️
 
-- 🔧 I've done my bachelors in Mechanical Engineering and a self-taught programmer.
+- 🔧 I've done my bachelors in Mechanical Engineering and taught myself programming after graduation.
 - 💻 I develop software that automates the boring and repetitive tasks of a Design engineer.
 - 📖 I'm into **Automation**, **Programming**, **Bots**, and so on.
-- ❤️ I love **Photography**, **Books**, **Formula1**, **Gymming**, **Travelling**, **Language-learning** and so on.
+- ❤️ I love **Photography**, **Books**, **Formula1**, **Gymming**, **Travelling**, **Language-learning**, and so on.
 
-<h2 align="center">You can also spy me at 👀</h2>
+<h2 align="center">You can also spy on me at 👀</h2>
 
 <p align="center">
   <a href="https://twitter.com/bhuvanbharatht">
