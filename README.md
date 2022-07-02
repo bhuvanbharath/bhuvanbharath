@@ -9,7 +9,6 @@
 - 💻 I develop software that automates the boring and repetitive tasks of a Design engineer.
 - 📖 I'm into **Automation**, **Programming**, **Bots**, and so on.
 - ❤️ I love **Photography**, **Books**, **Formula1**, **Gymming**, **Travelling**, **Language-learning** and so on.
-- 📫 For more: ✉ Drop a mail @bhuvanbharath@outlook.com.
 
 <h2 align="center">You can find me at :alien:</h2>
 
@@ -42,21 +41,11 @@
     <img src="resources/medium.png" alt="Bhuvan Bharath's Medium handle" height="30" width="30">
    </a>
    
-   <a href="bhuvanbharath.t@gmail.com">
+   <a href="mailto:bhuvanbharath.t@gmail.com">
      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Bhuvan Bharath's mail handle" height="30" width="30">
    </a>
    
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## **PROJECTS** 👨‍💻
-
-- ✨ Automating the Computer Aided Design(CAD) software that could save time and money for an organisation.
-- :robot: Developing a price alert bot for [bigbasket.com](https://www.bigbasket.com) using Python.
-
-## **NOW READING** 📚
-
-- **Think like a Rocket Scientist** by *Ozan* *Varol*.
-- **No Shortcuts** by *Nistha* *Tripathi*.
   
