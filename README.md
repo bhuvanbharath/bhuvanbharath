@@ -5,7 +5,7 @@
 
 ## **BIO** 👱🏽‍♂️
 
-- 🔧 I've done my bachelors in Mechanical Engineering and taught myself programming after graduation.
+- 🔧 I've done my bachelors in Mechanical Engineering and a self-taught programmer.
 - 💻 I develop software that automates the boring and repetitive tasks of a Design engineer.
 - 📖 I'm into **Automation**, **Programming**, **Bots**, and so on.
 - ❤️ I love **Photography**, **Books**, **Formula1**, **Gymming**, **Travelling**, **Language-learning**, and so on.
